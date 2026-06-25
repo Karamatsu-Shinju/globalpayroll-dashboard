@@ -163,7 +163,6 @@ case-study/
 
 ## Why This Project?
 
-This case study directly addresses the Remote Senior Product Designer JD requirements:
 
 1. **"Demonstrating maturity across the end-to-end design process"** — The project includes research (real tax data), problem definition (multi-country payroll complexity), solution design (dashboard UI), and validation (functional prototype).
 
